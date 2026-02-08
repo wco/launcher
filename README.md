@@ -12,8 +12,8 @@ Launcher oficial de **WOW-COLOMBIA** - Sistema de seguridad anticheat para garan
 
 | Archivo | SHA256 |
 |---------|--------|
-| wow-colombia.exe | `99d249cebe6a85a3e5cfcefcfddd3f7670839d38e8a42904d9202bca5c1a13eb` |
-| wow-colombia.zip | `323625b4b8d8b4ab57bc85707d280f32e1dc67340fae188ba266739ee29bb91c` |
+| wow-colombia.exe | `a1feda4521499851596ff38f036332ce297da8b3999d0f343154821fc58c0727` |
+| wow-colombia.zip | `78ddc9c84eb5574b6d3b979712b0f7a86126eb286048dfe9ba6c570f7dacc603` |
 
 ---
 
