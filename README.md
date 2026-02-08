@@ -6,20 +6,20 @@ Launcher oficial de **WOW-COLOMBIA** - Sistema de seguridad anticheat para garan
 
 ## Descarga
 
-**[Descargar Launcher v3.0.8](https://github.com/wco/launcher/releases/download/v3.0.8/wow-colombia.exe)** (Recomendado)
+**[Descargar Launcher v3.1.0](https://github.com/wco/launcher/releases/download/v3.1.0/wow-colombia.exe)** (Recomendado)
 
-[Descargar ZIP v3.0.8](https://github.com/wco/launcher/releases/download/v3.0.8/wow-colombia.zip) (Contraseña: `wowco`)
+[Descargar ZIP v3.1.0](https://github.com/wco/launcher/releases/download/v3.1.0/wow-colombia.zip) (Contraseña: `wowco`)
 
 | Archivo | SHA256 |
 |---------|--------|
-| wow-colombia.exe | `b7e373be6c8e85e14a833a67e302704bd0a502e19d5bfb84173496c5884b124b` |
-| wow-colombia.zip | `3a55768347bb415b0643916812f6fc9d150028a62f7fdd89db894919833ee65c` |
+| wow-colombia.exe | `99d249cebe6a85a3e5cfcefcfddd3f7670839d38e8a42904d9202bca5c1a13eb` |
+| wow-colombia.zip | `323625b4b8d8b4ab57bc85707d280f32e1dc67340fae188ba266739ee29bb91c` |
 
 ---
 
 ## Auto-Actualizacion
 
-A partir de la version 3.0.8, el launcher incluye **auto-actualizacion integrada**.
+A partir de la version 3.1.0, el launcher incluye **auto-actualizacion integrada**.
 
 Cuando haya una nueva version disponible:
 1. El launcher te mostrara un dialogo con las notas de la version
