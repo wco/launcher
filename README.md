@@ -6,14 +6,14 @@ Launcher oficial de **WOW-COLOMBIA** - Sistema de seguridad anticheat para garan
 
 ## Descarga
 
-**[Descargar Launcher v3.1.2](https://github.com/wco/launcher/releases/download/v3.1.2/wow-colombia.exe)** (Recomendado)
+**[Descargar Launcher v3.2.0](https://github.com/wco/launcher/releases/download/v3.2.0/wow-colombia.exe)** (Recomendado)
 
-[Descargar ZIP v3.1.2](https://github.com/wco/launcher/releases/download/v3.1.2/wow-colombia.zip) (Contraseña: `wowco`)
+[Descargar ZIP v3.2.0](https://github.com/wco/launcher/releases/download/v3.2.0/wow-colombia.zip) (Contraseña: `wowco`)
 
 | Archivo | SHA256 |
 |---------|--------|
-| wow-colombia.exe | `75c42bd3ec8ac69d0240f0ce1e417fb1e9f299d9067d58318bc43e3b56801c10` |
-| wow-colombia.zip | `efce0fddab15e62a478e9020f91706dfab7d79fa4b915a837494a62ef3659823` |
+| wow-colombia.exe | `a69ba38714a459062c1a0c98ff951bd8f99c56d758861fc322dee69d57af36a0` |
+| wow-colombia.zip | `cdb32a59b421c56b0c926baadee292e6a8ed8443f131516b9961d41864b3beea` |
 
 ---
 
