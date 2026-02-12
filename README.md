@@ -6,14 +6,23 @@ Launcher oficial de **WOW-COLOMBIA** - Sistema de seguridad anticheat para garan
 
 ## Descarga
 
-**[Descargar Launcher v3.2.0](https://github.com/wco/launcher/releases/download/v3.2.0/wow-colombia.exe)** (Recomendado)
+**[Descargar Launcher v3.2.1](https://github.com/wco/launcher/releases/download/v3.2.1/wow-colombia.exe)** (Recomendado)
 
-[Descargar ZIP v3.2.0](https://github.com/wco/launcher/releases/download/v3.2.0/wow-colombia.zip) (Contraseña: `wowco`)
+[Descargar ZIP v3.2.1](https://github.com/wco/launcher/releases/download/v3.2.1/wow-colombia.zip) (Contraseña: `wowco`)
 
 | Archivo | SHA256 |
 |---------|--------|
-| wow-colombia.exe | `a69ba38714a459062c1a0c98ff951bd8f99c56d758861fc322dee69d57af36a0` |
-| wow-colombia.zip | `cdb32a59b421c56b0c926baadee292e6a8ed8443f131516b9961d41864b3beea` |
+| wow-colombia.exe | `83e3a2b4a175b55242b502c0558b46404dc109f4ed982fc74056ae5789f46fa9` |
+| wow-colombia.zip | `9cbeaec385debc84707b3f31a165e3548b0d939b9c59ed4f77a0e5b960da8827` |
+
+---
+
+## Novedades en v3.2.1
+
+- **Soporte mejorado para multi-cuenta**: Corregido un problema donde al abrir una segunda cuenta de WoW en el mismo equipo, el launcher mostraba erroneamente una alerta de seguridad.
+- **Compatibilidad con software de GPU**: AMD Radeon, PresentMon y otros programas de monitoreo de hardware ya no interfieren con el launcher.
+- **Corregido error de actualizacion**: Solucionado el problema "Error al aplicar la actualizacion" que ocurria cuando WoW estaba instalado en una unidad diferente a la del sistema (ej: WoW en D:\ con Windows en C:\).
+- Mejoras generales de estabilidad del servidor.
 
 ---
 
@@ -27,7 +36,7 @@ Cuando haya una nueva version disponible:
 3. La descarga se realiza automaticamente con barra de progreso
 4. El launcher se reinicia con la nueva version
 
-**Esta es la ultima vez que necesitas descargar manualmente.**
+**Si ya tienes el launcher instalado, la actualizacion es automatica.**
 
 ---
 
@@ -36,6 +45,8 @@ Cuando haya una nueva version disponible:
 1. Descarga `wow-colombia.exe` desde el enlace de arriba
 2. Coloca el archivo en tu carpeta de World of Warcraft
 3. Ejecuta `wow-colombia.exe` en lugar de `wow.exe`
+
+> **Si ves "Error al aplicar la actualizacion"**: Descarga manualmente desde los enlaces de arriba y reemplaza el archivo.
 
 ---
 
@@ -63,6 +74,7 @@ Esto es completamente normal para aplicaciones nuevas. El launcher es seguro.
 
 - Web: [www.wow-colombia.com](https://www.wow-colombia.com)
 - Correo: info@wow-colombia.com
+- Ayuda: [Errores comunes](https://wow-colombia.com/post/errores-comunes) | [Modo offline](https://wow-colombia.com/post/launcheroffline)
 
 ---
 
