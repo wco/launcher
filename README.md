@@ -6,23 +6,22 @@ Launcher oficial de **WOW-COLOMBIA** - Sistema de seguridad anticheat para garan
 
 ## Descarga
 
-**[Descargar Launcher v3.2.1](https://github.com/wco/launcher/releases/download/v3.2.1/wow-colombia.exe)** (Recomendado)
+**[Descargar Launcher v3.2.2](https://github.com/wco/launcher/releases/download/v3.2.2/wow-colombia.exe)** (Recomendado)
 
-[Descargar ZIP v3.2.1](https://github.com/wco/launcher/releases/download/v3.2.1/wow-colombia.zip) (Contraseña: `wowco`)
+[Descargar ZIP v3.2.2](https://github.com/wco/launcher/releases/download/v3.2.2/wow-colombia.zip) (Contraseña: `wowco`)
 
 | Archivo | SHA256 |
 |---------|--------|
-| wow-colombia.exe | `5f067873a8ccc9f805926cb3e289b8ad173f709953a5eae28b6ab258f8ad496d` |
-| wow-colombia.zip | `bb0b5dc6033064555956331cdb938b781b250449a861ae598ff31055c0b2e627` |
+| wow-colombia.exe | `623c19464e36f35558e29714f66858b5c54930bee8dcee934e5024f250d33603` |
+| wow-colombia.zip | `68efcc97c5f8230bafac102f8d51ba6024f1311d5f80ef5840d361d5ae3f8019` |
 
 ---
 
-## Novedades en v3.2.1
+## Novedades en v3.2.2
 
-- **Soporte mejorado para multi-cuenta**: Corregido un problema donde al abrir una segunda cuenta de WoW en el mismo equipo, el launcher mostraba erroneamente una alerta de seguridad.
-- **Compatibilidad con software de GPU**: AMD Radeon, PresentMon y otros programas de monitoreo de hardware ya no interfieren con el launcher.
-- **Corregido error de actualizacion**: Solucionado el problema "Error al aplicar la actualizacion" que ocurria cuando WoW estaba instalado en una unidad diferente a la del sistema (ej: WoW en D:\ con Windows en C:\).
-- Mejoras generales de estabilidad del servidor.
+- **Prevencion de instancias multiples**: El launcher ahora detecta si ya esta en ejecucion y activa la ventana existente en lugar de abrir una segunda instancia.
+- **Eliminacion de falsos positivos**: Corregido un problema donde abrir el launcher mas de una vez generaba alertas de seguridad incorrectas.
+- Mejoras en la auditoria de seguridad de las comunicaciones.
 
 ---
 
