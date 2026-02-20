@@ -6,21 +6,21 @@ Launcher oficial de **WOW-COLOMBIA** - Sistema de seguridad anticheat para garan
 
 ## Descarga
 
-**[Descargar Launcher v3.2.3](https://github.com/wco/launcher/releases/download/v3.2.3/wow-colombia.exe)** (Recomendado)
+**[Descargar Launcher v3.3.0](https://github.com/wco/launcher/releases/download/v3.3.0/wow-colombia.exe)** (Recomendado)
 
-[Descargar ZIP v3.2.3](https://github.com/wco/launcher/releases/download/v3.2.3/wow-colombia.zip) (Contraseña: `wowco`)
+[Descargar ZIP v3.3.0](https://github.com/wco/launcher/releases/download/v3.3.0/wow-colombia.zip) (Contraseña: `wowco`)
 
 | Archivo | SHA256 |
 |---------|--------|
-| wow-colombia.exe | `0ee5d948820503e8605c52cdf9a3bf9a021b55874eb23ec2071bb15dd435374f` |
-| wow-colombia.zip | `1778a706b44d6d79a78068345fbff7c79feec7321328481fef4d62efa7c5dee7` |
+| wow-colombia.exe | `6cc2fc63d732d52bf47d24eb6c48c37070b2bfb25a0ff5a32cbcc34df9106c09` |
+| wow-colombia.zip | `5c93fa2986b019fd3fa23455bdc627a87c789c0dd9ab5994409b7556a2627c47` |
 
 ---
 
-## Novedades en v3.2.3
+## Novedades en v3.3.0
 
-- **Rated Battleground 5v5**: El launcher ahora instala automaticamente el addon necesario para acceder a las Rated BGs con equipos de 5 jugadores (WSG y Twin Peaks).
-- El addon se mantiene actualizado automaticamente en cada inicio del launcher.
+- **Auditoría de seguridad mejorada**: validación más robusta contra el wintrading en arenas y battlegrounds.
+- **Estabilidad**: correcciones en la actualización de archivos del cliente.
 
 ---
 
