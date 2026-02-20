@@ -6,22 +6,21 @@ Launcher oficial de **WOW-COLOMBIA** - Sistema de seguridad anticheat para garan
 
 ## Descarga
 
-**[Descargar Launcher v3.2.2](https://github.com/wco/launcher/releases/download/v3.2.2/wow-colombia.exe)** (Recomendado)
+**[Descargar Launcher v3.2.3](https://github.com/wco/launcher/releases/download/v3.2.3/wow-colombia.exe)** (Recomendado)
 
-[Descargar ZIP v3.2.2](https://github.com/wco/launcher/releases/download/v3.2.2/wow-colombia.zip) (Contraseña: `wowco`)
+[Descargar ZIP v3.2.3](https://github.com/wco/launcher/releases/download/v3.2.3/wow-colombia.zip) (Contraseña: `wowco`)
 
 | Archivo | SHA256 |
 |---------|--------|
-| wow-colombia.exe | `623c19464e36f35558e29714f66858b5c54930bee8dcee934e5024f250d33603` |
-| wow-colombia.zip | `68efcc97c5f8230bafac102f8d51ba6024f1311d5f80ef5840d361d5ae3f8019` |
+| wow-colombia.exe | `0ee5d948820503e8605c52cdf9a3bf9a021b55874eb23ec2071bb15dd435374f` |
+| wow-colombia.zip | `1778a706b44d6d79a78068345fbff7c79feec7321328481fef4d62efa7c5dee7` |
 
 ---
 
-## Novedades en v3.2.2
+## Novedades en v3.2.3
 
-- **Prevencion de instancias multiples**: El launcher ahora detecta si ya esta en ejecucion y activa la ventana existente en lugar de abrir una segunda instancia.
-- **Eliminacion de falsos positivos**: Corregido un problema donde abrir el launcher mas de una vez generaba alertas de seguridad incorrectas.
-- Mejoras en la auditoria de seguridad de las comunicaciones.
+- **Rated Battleground 5v5**: El launcher ahora instala automaticamente el addon necesario para acceder a las Rated BGs con equipos de 5 jugadores (WSG y Twin Peaks).
+- El addon se mantiene actualizado automaticamente en cada inicio del launcher.
 
 ---
 
