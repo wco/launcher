@@ -6,21 +6,22 @@ Launcher oficial de **WOW-COLOMBIA** - Sistema de seguridad anticheat para garan
 
 ## Descarga
 
-**[Descargar Launcher v3.3.0](https://github.com/wco/launcher/releases/download/v3.3.0/wow-colombia.exe)** (Recomendado)
+**[Descargar Launcher v3.3.1](https://github.com/wco/launcher/releases/download/v3.3.1/wow-colombia.exe)** (Recomendado)
 
-[Descargar ZIP v3.3.0](https://github.com/wco/launcher/releases/download/v3.3.0/wow-colombia.zip) (Contraseña: `wowco`)
+[Descargar ZIP v3.3.1](https://github.com/wco/launcher/releases/download/v3.3.1/wow-colombia.zip) (Contraseña: `wowco`)
 
 | Archivo | SHA256 |
 |---------|--------|
-| wow-colombia.exe | `6cc2fc63d732d52bf47d24eb6c48c37070b2bfb25a0ff5a32cbcc34df9106c09` |
-| wow-colombia.zip | `5c93fa2986b019fd3fa23455bdc627a87c789c0dd9ab5994409b7556a2627c47` |
+| wow-colombia.exe | `2db00687433ad3331856e409ba1763861e8d2089ecde0b8c9af1e14123398e0f` |
+| wow-colombia.zip | `7ec746811ce7acf5cd472056a057e36d374bc3c5f2b1ea6962057c0a105ca2f4` |
 
 ---
 
-## Novedades en v3.3.0
+## Novedades en v3.3.1
 
-- **Auditoría de seguridad mejorada**: validación más robusta contra el wintrading en arenas y battlegrounds.
-- **Estabilidad**: correcciones en la actualización de archivos del cliente.
+- **Estabilidad mejorada**: mejoras en la recopilación de información del sistema.
+- **Compatibilidad**: correcciones de validación de memoria para mayor compatibilidad con hardware diverso.
+- **Almacenamiento**: compatibilidad mejorada con controladores NVMe y USB.
 
 ---
 
